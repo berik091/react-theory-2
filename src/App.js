@@ -7,7 +7,7 @@ class App extends Component {
     // Создали объект и с массивами
     state={
         car:[
-            {name: 'Ford', year:2010},
+            {name: 'Ford', year:2001},
             {name: 'Audi', year:2016},
             {name: 'Bmw', year:2017}
         ],
